@@ -38,6 +38,8 @@ The solution follows a **cloud-native architecture on Azure**:
 
 📌 See full architecture diagram in `docs/architecture.png`.
 
+*Note: Architecture is designed and documented; full Azure implementation is planned for future development.*
+
 ---
 
 ## ⚙️ Tech Stack
@@ -55,6 +57,11 @@ The solution follows a **cloud-native architecture on Azure**:
 - Hosted on Azure App Service with Blob Storage for static assets  
 - Monitoring via Azure Application Insights  
 - Secure credential management with Azure Key Vault  
+
+## 🛣️ Future Roadmap
+- **Current:** Prototype deployed on PythonAnywhere for demonstration
+- **Architecture:** Comprehensive Azure cloud design documented
+- **Future:** Ready for full Azure implementation using the proposed architecture
 
 ---
 
