@@ -1,4 +1,5 @@
-# Strong Ape Apparel E-Commerce (Cloud Project)
+## 🏗️ System Architecture (Cloud Project)
+![Azure E-commerce Architecture](./docs/system_architecture.png)
 
 ## 🌐 Project Overview
 Strong Ape Apparel is a Singapore-based retail brand expanding into e-commerce.  
@@ -9,8 +10,8 @@ The e-commerce platform is built on **Microsoft Azure**, integrating cloud-nativ
 scalability, inventory management, and seamless payment processing.
 
 🔗 **Demo Mockup Site:** [strongape.pythonanywhere.com](https://strongape.pythonanywhere.com/)  
-🔗 **Presentation Slides:** [View Here](./docs/Strong_Apes_Distribution.pdf)  
-🔗 **Proposal Report:** [View Here](./docs/Strong_Apes_Proposal.pdf)
+🔗 **Presentation Slides:** [View Here](https://github.com/Cyberzal1/azure-ecommerce-platform/blob/feature/docs-update-readme/docs/Strong_Apes_Distribution.pdf)  
+🔗 **Proposal Report:** [View Here](https://github.com/Cyberzal1/azure-ecommerce-platform/blob/feature/docs-update-readme/docs/Strong_Apes_Proposal.pdf)
 
 ---
 
