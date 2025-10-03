@@ -10,9 +10,8 @@ The e-commerce platform is built on **Microsoft Azure**, integrating cloud-nativ
 scalability, inventory management, and seamless payment processing.
 
 🔗 **Demo Mockup Site:** [strongape.pythonanywhere.com](https://strongape.pythonanywhere.com/)  
-🔗 **Presentation Slides:** [View Here](https://github.com/Cyberzal1/azure-ecommerce-platform/blob/feature/docs-update-readme/docs/Strong_Apes_Distribution.pdf)  
-🔗 **Proposal Report:** [View Here](https://github.com/Cyberzal1/azure-ecommerce-platform/blob/feature/docs-update-readme/docs/Strong_Apes_Proposal.pdf)
-
+🔗 **Presentation Slides:** [View PDF](https://raw.githubusercontent.com/Cyberzal1/azure-ecommerce-platform/main/docs/Strong_Apes_Distribution.pdf)   
+🔗 **Proposal Report:** [View PDF](https://raw.githubusercontent.com/Cyberzal1/azure-ecommerce-platform/main/docs/Strong_Apes_Proposal.pdf)
 ---
 
 ## ✨ Features
