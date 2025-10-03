@@ -38,7 +38,7 @@ The solution follows a **cloud-native architecture on Azure**:
 
 📌 See full architecture diagram in `docs/architecture.png`.
 
-*Note: Architecture is designed and documented; full Azure implementation is planned for future development.*
+*Note: Architecture is designed and documented; full Azure implementation is planned for future development. (Refer to future roadmap)*
 
 ---
 
@@ -89,9 +89,3 @@ The solution follows a **cloud-native architecture on Azure**:
 - Enhanced analytics dashboard for sales insights  
 
 ---
-
-## 🛠️ Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-repo>.git
-   cd strong-ape-apparel
